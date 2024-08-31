@@ -4,3 +4,4 @@ openai==1.11.1
 psycopg-binary==3.2.1
 streamlit==1.38.0
 python-dotenv
+google-generativeai
